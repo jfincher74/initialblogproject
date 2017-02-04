@@ -1,0 +1,74 @@
+body	
+	{
+		background-color: #aeb6bf;
+	}
+h1
+	{
+		text-align: right;
+	}
+body hr
+	{
+		border-color: black;
+		border-width: thick;
+	}
+div div div img
+	{
+		float: left;
+		width: auto;
+	}
+div div #blogcontent p:nth-child(odd)
+	{
+		color: #58d68d;
+	}
+#blogcontent p:nth-child(even)
+	{
+		color: #f4d03f;
+	}
+#blogcontent p:first-letter
+	{
+		color: black;
+		font-family: cursive;
+		font-size: 200%;
+	}
+nav
+	{
+		color: #58d68d;
+	}
+div div #
+	{
+		color: #f4d03f;
+		text-align: right;
+	}
+span.glyphicon-envelope
+	{
+		font-size: 150%;
+		position: relative;
+		top: 4px;
+	}
+span.glyphicon-home
+	{
+		font-size: 150%;
+		position: relative;
+		top: 4px;
+	}
+span.glyphicon-search
+	{
+		font-size: 150%;
+		position: relative;
+		top: 4px;
+	}
+.dropdown
+	{
+		position: relative;
+		top: 72px;
+		right: -24px;
+		color: black;
+		background-color: white;
+	}
+h3
+	{
+		position: absolute;
+		top: -36px;
+		right: 132px;
+	}
+
